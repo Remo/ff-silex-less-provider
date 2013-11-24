@@ -12,7 +12,7 @@ Create a composer.json in your projects root-directory:
 
     {
         "require": {
-            "darklow/ff-silex-less-provider": "*"
+            "remo/ff-silex-less-provider": "*"
         }
     }
 
